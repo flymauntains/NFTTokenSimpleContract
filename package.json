@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "truffle-plugin-verify": "^0.6.7"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.1.0-solc-0.7",
+    "@truffle/compile-solidity": "^6.0.79",
+    "@truffle/hdwallet-provider": "^2.1.15",
+    "dotenv": "^16.4.5",
+    "form-data": "^4.0.0",
+    "nft.storage": "^7.2.0",
+    "nodemon": "^3.1.4",
+    "solc": "^0.5.16"
+  }
+}
